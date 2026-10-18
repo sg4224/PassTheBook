@@ -17,8 +17,6 @@ Problems this idea addresses:
 * It's hard to find the right person to pass a book to
 * There is no easy way to track where a shared book has gone
 
-My personal motivation: [add your own reason here, e.g. "My friends and I often buy books we only read once" or "I have found it difficult to afford books for my studies"].
-
 Sharing books saves money, reduces waste, and helps build a reading culture in a community.
 
 
